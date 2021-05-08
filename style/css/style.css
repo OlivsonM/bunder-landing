@@ -2033,7 +2033,7 @@ img {
 .footer__position {
   display: flex;
   align-items: flex-start;
-  width: 235px;
+  width: 350px;
   justify-content: space-between;
 }
 
